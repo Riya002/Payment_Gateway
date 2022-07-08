@@ -15,8 +15,6 @@ body
 .navbar-nav .active a
 {
     color: #000000;
-    font-family: Fira Code SemiBold;
-
 }
 .navbar-nav li a:hover{
     color: cornflowerblue;
