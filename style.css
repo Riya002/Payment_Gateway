@@ -48,7 +48,7 @@ h1{
     margin-top: 10%;
 }
 p{
-    font-size: 130%;
+    font-size: 90%;
 }
 .button
 {
@@ -167,7 +167,6 @@ textarea.input100 {
     line-height: 1.5;
     color: #666666;
 }
-
 
 /*------------------------------------------------------------------
 [ Focus ]*/
@@ -409,6 +408,15 @@ textarea.input100 {
     margin-bottom: 3px;
 }
 
+.card{
+    display: inline-flex;
+}
+div.card-body{
+    font-size: xx-small;
+}
+.card-text{
+    color: black;
+}
 .aboutbox{
     background-color: rgb(0,0,0,0.6);
     border-radius: 20px;
